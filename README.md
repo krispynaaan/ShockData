@@ -1,5 +1,7 @@
 # ShockData
 
+## Setup
+
 - Install packages through `pip install -r requirements.txt`
 
 - Run `shock_plotter.py` with values for args `ellipse_height` and `mach` (e.g. `python3 shock_plotter.py 0.01 4.59`)
@@ -15,3 +17,7 @@
     - `h_n`: number of airfoil geometries to generate between an ellipse_height value between 0.005 and 0.01
 
 - Code for verification and validation of dataset is in `shock_analysis.ipynb`
+
+## Dataset format
+
+- CSV file with `x` and `y` columns for each point on the airfoil
