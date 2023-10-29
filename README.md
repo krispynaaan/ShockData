@@ -1,5 +1,10 @@
 # ShockData
+
 Datathon 2023 Submission
+
+## Presentation slides
+
+<https://docs.google.com/presentation/d/1sOSUCWdcERDZdl6lOFkcLJkK5pml2w73MQ5gA4KQGgE/edit?usp=sharing>
 
 ## Setup
 
