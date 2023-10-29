@@ -16,6 +16,7 @@ Datathon 2023 Submission
   - In file, two variables:
     - `M_n`: number of free-stream mach values to generate between a mach value of 1.3 and 5.0
     - `h_n`: number of airfoil geometries to generate between an ellipse_height value between 0.005 and 0.01
+  - Preview mesh: ![Alt text](static/image-1.png)
 
 - Code for verification and validation of dataset is in `shock_analysis.ipynb`
 

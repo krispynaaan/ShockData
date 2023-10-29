@@ -1,0 +1,785 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.1.18)  29 OCT 2023 09:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/sasia/projects/python/dt/ShockData/plots.tex
+(c:/Users/sasia/projects/python/dt/ShockData/plots.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-12> (c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(c:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (c:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (c:/texlive/2021/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (c:/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (c:/texlive/2021/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+) (c:/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count193
+\float@exts=\toks18
+\float@box=\box50
+\@float@everytoks=\toks19
+\@floatcapt=\box51
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (c:/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 13.
+ (c:/texlive/2021/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box52
+) (build/plots.aux)
+\openout1 = `plots.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 13.
+ (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen141
+\scratchbox=\box53
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen142
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks22
+) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 15.
+ (c:/texlive/2021/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 15.
+ (c:/texlive/2021/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 15.
+ (c:/texlive/2021/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 15.
+ (c:/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 15.
+
+
+LaTeX Warning: No \author given.
+
+<plots/0.005/1.3.png, id=1, 722.7pt x 722.7pt>
+File: plots/0.005/1.3.png Graphic file (type png)
+<use plots/0.005/1.3.png>
+Package pdftex.def Info: plots/0.005/1.3.png  used on input line 22.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+<plots/0.005/1.71.png, id=3, 722.7pt x 722.7pt>
+File: plots/0.005/1.71.png Graphic file (type png)
+<use plots/0.005/1.71.png>
+Package pdftex.def Info: plots/0.005/1.71.png  used on input line 31.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+[1
+
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./plots/0.005/1.3.png>]
+<plots/0.005/2.12.png, id=14, 722.7pt x 722.7pt>
+File: plots/0.005/2.12.png Graphic file (type png)
+<use plots/0.005/2.12.png>
+Package pdftex.def Info: plots/0.005/2.12.png  used on input line 40.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [2 <./plots/0.005/1.71.png>]
+<plots/0.005/2.53.png, id=19, 722.7pt x 722.7pt>
+File: plots/0.005/2.53.png Graphic file (type png)
+<use plots/0.005/2.53.png>
+Package pdftex.def Info: plots/0.005/2.53.png  used on input line 49.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [3 <./plots/0.005/2.12.png>]
+<plots/0.005/2.94.png, id=24, 722.7pt x 722.7pt>
+File: plots/0.005/2.94.png Graphic file (type png)
+<use plots/0.005/2.94.png>
+Package pdftex.def Info: plots/0.005/2.94.png  used on input line 58.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [4 <./plots/0.005/2.53.png>]
+<plots/0.005/3.36.png, id=29, 722.7pt x 722.7pt>
+File: plots/0.005/3.36.png Graphic file (type png)
+<use plots/0.005/3.36.png>
+Package pdftex.def Info: plots/0.005/3.36.png  used on input line 67.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [5 <./plots/0.005/2.94.png>]
+<plots/0.005/3.77.png, id=34, 722.7pt x 722.7pt>
+File: plots/0.005/3.77.png Graphic file (type png)
+<use plots/0.005/3.77.png>
+Package pdftex.def Info: plots/0.005/3.77.png  used on input line 76.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [6 <./plots/0.005/3.36.png>]
+<plots/0.005/4.18.png, id=39, 722.7pt x 722.7pt>
+File: plots/0.005/4.18.png Graphic file (type png)
+<use plots/0.005/4.18.png>
+Package pdftex.def Info: plots/0.005/4.18.png  used on input line 85.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [7 <./plots/0.005/3.77.png>]
+<plots/0.005/4.59.png, id=45, 722.7pt x 722.7pt>
+File: plots/0.005/4.59.png Graphic file (type png)
+<use plots/0.005/4.59.png>
+Package pdftex.def Info: plots/0.005/4.59.png  used on input line 94.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [8 <./plots/0.005/4.18.png>]
+<plots/0.005/5.0.png, id=50, 722.7pt x 722.7pt>
+File: plots/0.005/5.0.png Graphic file (type png)
+<use plots/0.005/5.0.png>
+Package pdftex.def Info: plots/0.005/5.0.png  used on input line 103.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [9 <./plots/0.005/4.59.png>]
+<plots/0.0056/1.3.png, id=55, 722.7pt x 722.7pt>
+File: plots/0.0056/1.3.png Graphic file (type png)
+<use plots/0.0056/1.3.png>
+Package pdftex.def Info: plots/0.0056/1.3.png  used on input line 114.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [10 <./plots/0.005/5.0.png>]
+<plots/0.0056/1.71.png, id=60, 722.7pt x 722.7pt>
+File: plots/0.0056/1.71.png Graphic file (type png)
+<use plots/0.0056/1.71.png>
+Package pdftex.def Info: plots/0.0056/1.71.png  used on input line 123.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [11 <./plots/0.0056/1.3.png>]
+<plots/0.0056/2.12.png, id=65, 722.7pt x 722.7pt>
+File: plots/0.0056/2.12.png Graphic file (type png)
+<use plots/0.0056/2.12.png>
+Package pdftex.def Info: plots/0.0056/2.12.png  used on input line 132.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [12 <./plots/0.0056/1.71.png>]
+<plots/0.0056/2.53.png, id=70, 722.7pt x 722.7pt>
+File: plots/0.0056/2.53.png Graphic file (type png)
+<use plots/0.0056/2.53.png>
+Package pdftex.def Info: plots/0.0056/2.53.png  used on input line 141.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [13 <./plots/0.0056/2.12.png>]
+<plots/0.0056/2.94.png, id=76, 722.7pt x 722.7pt>
+File: plots/0.0056/2.94.png Graphic file (type png)
+<use plots/0.0056/2.94.png>
+Package pdftex.def Info: plots/0.0056/2.94.png  used on input line 150.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [14 <./plots/0.0056/2.53.png>]
+<plots/0.0056/3.36.png, id=81, 722.7pt x 722.7pt>
+File: plots/0.0056/3.36.png Graphic file (type png)
+<use plots/0.0056/3.36.png>
+Package pdftex.def Info: plots/0.0056/3.36.png  used on input line 159.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [15 <./plots/0.0056/2.94.png>]
+<plots/0.0056/3.77.png, id=86, 722.7pt x 722.7pt>
+File: plots/0.0056/3.77.png Graphic file (type png)
+<use plots/0.0056/3.77.png>
+Package pdftex.def Info: plots/0.0056/3.77.png  used on input line 168.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [16 <./plots/0.0056/3.36.png>]
+<plots/0.0056/4.18.png, id=91, 722.7pt x 722.7pt>
+File: plots/0.0056/4.18.png Graphic file (type png)
+<use plots/0.0056/4.18.png>
+Package pdftex.def Info: plots/0.0056/4.18.png  used on input line 177.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [17 <./plots/0.0056/3.77.png>]
+<plots/0.0056/4.59.png, id=96, 722.7pt x 722.7pt>
+File: plots/0.0056/4.59.png Graphic file (type png)
+<use plots/0.0056/4.59.png>
+Package pdftex.def Info: plots/0.0056/4.59.png  used on input line 186.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [18 <./plots/0.0056/4.18.png>]
+<plots/0.0056/5.0.png, id=101, 722.7pt x 722.7pt>
+File: plots/0.0056/5.0.png Graphic file (type png)
+<use plots/0.0056/5.0.png>
+Package pdftex.def Info: plots/0.0056/5.0.png  used on input line 195.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [19 <./plots/0.0056/4.59.png>]
+<plots/0.0061/1.3.png, id=107, 722.7pt x 722.7pt>
+File: plots/0.0061/1.3.png Graphic file (type png)
+<use plots/0.0061/1.3.png>
+Package pdftex.def Info: plots/0.0061/1.3.png  used on input line 206.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [20 <./plots/0.0056/5.0.png>]
+<plots/0.0061/1.71.png, id=112, 722.7pt x 722.7pt>
+File: plots/0.0061/1.71.png Graphic file (type png)
+<use plots/0.0061/1.71.png>
+Package pdftex.def Info: plots/0.0061/1.71.png  used on input line 215.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [21 <./plots/0.0061/1.3.png>]
+<plots/0.0061/2.12.png, id=117, 722.7pt x 722.7pt>
+File: plots/0.0061/2.12.png Graphic file (type png)
+<use plots/0.0061/2.12.png>
+Package pdftex.def Info: plots/0.0061/2.12.png  used on input line 224.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [22 <./plots/0.0061/1.71.png>]
+<plots/0.0061/2.53.png, id=122, 722.7pt x 722.7pt>
+File: plots/0.0061/2.53.png Graphic file (type png)
+<use plots/0.0061/2.53.png>
+Package pdftex.def Info: plots/0.0061/2.53.png  used on input line 233.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [23 <./plots/0.0061/2.12.png>]
+<plots/0.0061/2.94.png, id=127, 722.7pt x 722.7pt>
+File: plots/0.0061/2.94.png Graphic file (type png)
+<use plots/0.0061/2.94.png>
+Package pdftex.def Info: plots/0.0061/2.94.png  used on input line 242.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [24 <./plots/0.0061/2.53.png>]
+<plots/0.0061/3.36.png, id=132, 722.7pt x 722.7pt>
+File: plots/0.0061/3.36.png Graphic file (type png)
+<use plots/0.0061/3.36.png>
+Package pdftex.def Info: plots/0.0061/3.36.png  used on input line 251.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [25 <./plots/0.0061/2.94.png>]
+<plots/0.0061/3.77.png, id=138, 722.7pt x 722.7pt>
+File: plots/0.0061/3.77.png Graphic file (type png)
+<use plots/0.0061/3.77.png>
+Package pdftex.def Info: plots/0.0061/3.77.png  used on input line 260.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [26 <./plots/0.0061/3.36.png>]
+<plots/0.0061/4.18.png, id=143, 722.7pt x 722.7pt>
+File: plots/0.0061/4.18.png Graphic file (type png)
+<use plots/0.0061/4.18.png>
+Package pdftex.def Info: plots/0.0061/4.18.png  used on input line 269.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [27 <./plots/0.0061/3.77.png>]
+<plots/0.0061/4.59.png, id=148, 722.7pt x 722.7pt>
+File: plots/0.0061/4.59.png Graphic file (type png)
+<use plots/0.0061/4.59.png>
+Package pdftex.def Info: plots/0.0061/4.59.png  used on input line 278.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [28 <./plots/0.0061/4.18.png>]
+<plots/0.0061/5.0.png, id=153, 722.7pt x 722.7pt>
+File: plots/0.0061/5.0.png Graphic file (type png)
+<use plots/0.0061/5.0.png>
+Package pdftex.def Info: plots/0.0061/5.0.png  used on input line 287.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [29 <./plots/0.0061/4.59.png>]
+<plots/0.0067/1.3.png, id=158, 722.7pt x 722.7pt>
+File: plots/0.0067/1.3.png Graphic file (type png)
+<use plots/0.0067/1.3.png>
+Package pdftex.def Info: plots/0.0067/1.3.png  used on input line 298.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [30 <./plots/0.0061/5.0.png>]
+<plots/0.0067/1.71.png, id=163, 722.7pt x 722.7pt>
+File: plots/0.0067/1.71.png Graphic file (type png)
+<use plots/0.0067/1.71.png>
+Package pdftex.def Info: plots/0.0067/1.71.png  used on input line 307.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [31 <./plots/0.0067/1.3.png>]
+<plots/0.0067/2.12.png, id=169, 722.7pt x 722.7pt>
+File: plots/0.0067/2.12.png Graphic file (type png)
+<use plots/0.0067/2.12.png>
+Package pdftex.def Info: plots/0.0067/2.12.png  used on input line 316.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [32 <./plots/0.0067/1.71.png>]
+<plots/0.0067/2.53.png, id=174, 722.7pt x 722.7pt>
+File: plots/0.0067/2.53.png Graphic file (type png)
+<use plots/0.0067/2.53.png>
+Package pdftex.def Info: plots/0.0067/2.53.png  used on input line 325.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [33 <./plots/0.0067/2.12.png>]
+<plots/0.0067/2.94.png, id=179, 722.7pt x 722.7pt>
+File: plots/0.0067/2.94.png Graphic file (type png)
+<use plots/0.0067/2.94.png>
+Package pdftex.def Info: plots/0.0067/2.94.png  used on input line 334.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [34 <./plots/0.0067/2.53.png>]
+<plots/0.0067/3.36.png, id=184, 722.7pt x 722.7pt>
+File: plots/0.0067/3.36.png Graphic file (type png)
+<use plots/0.0067/3.36.png>
+Package pdftex.def Info: plots/0.0067/3.36.png  used on input line 343.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [35 <./plots/0.0067/2.94.png>]
+<plots/0.0067/3.77.png, id=189, 722.7pt x 722.7pt>
+File: plots/0.0067/3.77.png Graphic file (type png)
+<use plots/0.0067/3.77.png>
+Package pdftex.def Info: plots/0.0067/3.77.png  used on input line 352.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [36 <./plots/0.0067/3.36.png>]
+<plots/0.0067/4.18.png, id=194, 722.7pt x 722.7pt>
+File: plots/0.0067/4.18.png Graphic file (type png)
+<use plots/0.0067/4.18.png>
+Package pdftex.def Info: plots/0.0067/4.18.png  used on input line 361.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [37 <./plots/0.0067/3.77.png>]
+<plots/0.0067/4.59.png, id=200, 722.7pt x 722.7pt>
+File: plots/0.0067/4.59.png Graphic file (type png)
+<use plots/0.0067/4.59.png>
+Package pdftex.def Info: plots/0.0067/4.59.png  used on input line 370.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [38 <./plots/0.0067/4.18.png>]
+<plots/0.0067/5.0.png, id=205, 722.7pt x 722.7pt>
+File: plots/0.0067/5.0.png Graphic file (type png)
+<use plots/0.0067/5.0.png>
+Package pdftex.def Info: plots/0.0067/5.0.png  used on input line 379.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [39 <./plots/0.0067/4.59.png>]
+<plots/0.0072/1.3.png, id=210, 722.7pt x 722.7pt>
+File: plots/0.0072/1.3.png Graphic file (type png)
+<use plots/0.0072/1.3.png>
+Package pdftex.def Info: plots/0.0072/1.3.png  used on input line 390.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [40 <./plots/0.0067/5.0.png>]
+<plots/0.0072/1.71.png, id=215, 722.7pt x 722.7pt>
+File: plots/0.0072/1.71.png Graphic file (type png)
+<use plots/0.0072/1.71.png>
+Package pdftex.def Info: plots/0.0072/1.71.png  used on input line 399.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [41 <./plots/0.0072/1.3.png>]
+<plots/0.0072/2.12.png, id=220, 722.7pt x 722.7pt>
+File: plots/0.0072/2.12.png Graphic file (type png)
+<use plots/0.0072/2.12.png>
+Package pdftex.def Info: plots/0.0072/2.12.png  used on input line 408.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [42 <./plots/0.0072/1.71.png>]
+<plots/0.0072/2.53.png, id=225, 722.7pt x 722.7pt>
+File: plots/0.0072/2.53.png Graphic file (type png)
+<use plots/0.0072/2.53.png>
+Package pdftex.def Info: plots/0.0072/2.53.png  used on input line 417.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [43 <./plots/0.0072/2.12.png>]
+<plots/0.0072/2.94.png, id=231, 722.7pt x 722.7pt>
+File: plots/0.0072/2.94.png Graphic file (type png)
+<use plots/0.0072/2.94.png>
+Package pdftex.def Info: plots/0.0072/2.94.png  used on input line 426.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [44 <./plots/0.0072/2.53.png>]
+<plots/0.0072/3.36.png, id=236, 722.7pt x 722.7pt>
+File: plots/0.0072/3.36.png Graphic file (type png)
+<use plots/0.0072/3.36.png>
+Package pdftex.def Info: plots/0.0072/3.36.png  used on input line 435.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [45 <./plots/0.0072/2.94.png>]
+<plots/0.0072/3.77.png, id=241, 722.7pt x 722.7pt>
+File: plots/0.0072/3.77.png Graphic file (type png)
+<use plots/0.0072/3.77.png>
+Package pdftex.def Info: plots/0.0072/3.77.png  used on input line 444.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [46 <./plots/0.0072/3.36.png>]
+<plots/0.0072/4.18.png, id=246, 722.7pt x 722.7pt>
+File: plots/0.0072/4.18.png Graphic file (type png)
+<use plots/0.0072/4.18.png>
+Package pdftex.def Info: plots/0.0072/4.18.png  used on input line 453.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [47 <./plots/0.0072/3.77.png>]
+<plots/0.0072/4.59.png, id=251, 722.7pt x 722.7pt>
+File: plots/0.0072/4.59.png Graphic file (type png)
+<use plots/0.0072/4.59.png>
+Package pdftex.def Info: plots/0.0072/4.59.png  used on input line 462.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [48 <./plots/0.0072/4.18.png>]
+<plots/0.0072/5.0.png, id=256, 722.7pt x 722.7pt>
+File: plots/0.0072/5.0.png Graphic file (type png)
+<use plots/0.0072/5.0.png>
+Package pdftex.def Info: plots/0.0072/5.0.png  used on input line 471.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [49 <./plots/0.0072/4.59.png>]
+<plots/0.0078/1.3.png, id=262, 722.7pt x 722.7pt>
+File: plots/0.0078/1.3.png Graphic file (type png)
+<use plots/0.0078/1.3.png>
+Package pdftex.def Info: plots/0.0078/1.3.png  used on input line 482.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [50 <./plots/0.0072/5.0.png>]
+<plots/0.0078/1.71.png, id=268, 722.7pt x 722.7pt>
+File: plots/0.0078/1.71.png Graphic file (type png)
+<use plots/0.0078/1.71.png>
+Package pdftex.def Info: plots/0.0078/1.71.png  used on input line 491.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [51 <./plots/0.0078/1.3.png>]
+<plots/0.0078/2.12.png, id=273, 722.7pt x 722.7pt>
+File: plots/0.0078/2.12.png Graphic file (type png)
+<use plots/0.0078/2.12.png>
+Package pdftex.def Info: plots/0.0078/2.12.png  used on input line 500.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [52 <./plots/0.0078/1.71.png>]
+<plots/0.0078/2.53.png, id=278, 722.7pt x 722.7pt>
+File: plots/0.0078/2.53.png Graphic file (type png)
+<use plots/0.0078/2.53.png>
+Package pdftex.def Info: plots/0.0078/2.53.png  used on input line 509.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [53 <./plots/0.0078/2.12.png>]
+<plots/0.0078/2.94.png, id=283, 722.7pt x 722.7pt>
+File: plots/0.0078/2.94.png Graphic file (type png)
+<use plots/0.0078/2.94.png>
+Package pdftex.def Info: plots/0.0078/2.94.png  used on input line 518.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [54 <./plots/0.0078/2.53.png>]
+<plots/0.0078/3.36.png, id=288, 722.7pt x 722.7pt>
+File: plots/0.0078/3.36.png Graphic file (type png)
+<use plots/0.0078/3.36.png>
+Package pdftex.def Info: plots/0.0078/3.36.png  used on input line 527.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [55 <./plots/0.0078/2.94.png>]
+<plots/0.0078/3.77.png, id=294, 722.7pt x 722.7pt>
+File: plots/0.0078/3.77.png Graphic file (type png)
+<use plots/0.0078/3.77.png>
+Package pdftex.def Info: plots/0.0078/3.77.png  used on input line 536.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [56 <./plots/0.0078/3.36.png>]
+<plots/0.0078/4.18.png, id=299, 722.7pt x 722.7pt>
+File: plots/0.0078/4.18.png Graphic file (type png)
+<use plots/0.0078/4.18.png>
+Package pdftex.def Info: plots/0.0078/4.18.png  used on input line 545.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [57 <./plots/0.0078/3.77.png>]
+<plots/0.0078/4.59.png, id=304, 722.7pt x 722.7pt>
+File: plots/0.0078/4.59.png Graphic file (type png)
+<use plots/0.0078/4.59.png>
+Package pdftex.def Info: plots/0.0078/4.59.png  used on input line 554.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [58 <./plots/0.0078/4.18.png>]
+<plots/0.0078/5.0.png, id=309, 722.7pt x 722.7pt>
+File: plots/0.0078/5.0.png Graphic file (type png)
+<use plots/0.0078/5.0.png>
+Package pdftex.def Info: plots/0.0078/5.0.png  used on input line 563.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [59 <./plots/0.0078/4.59.png>]
+<plots/0.0083/1.3.png, id=314, 722.7pt x 722.7pt>
+File: plots/0.0083/1.3.png Graphic file (type png)
+<use plots/0.0083/1.3.png>
+Package pdftex.def Info: plots/0.0083/1.3.png  used on input line 574.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [60 <./plots/0.0078/5.0.png>]
+<plots/0.0083/1.71.png, id=319, 722.7pt x 722.7pt>
+File: plots/0.0083/1.71.png Graphic file (type png)
+<use plots/0.0083/1.71.png>
+Package pdftex.def Info: plots/0.0083/1.71.png  used on input line 583.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [61 <./plots/0.0083/1.3.png>]
+<plots/0.0083/2.12.png, id=325, 722.7pt x 722.7pt>
+File: plots/0.0083/2.12.png Graphic file (type png)
+<use plots/0.0083/2.12.png>
+Package pdftex.def Info: plots/0.0083/2.12.png  used on input line 592.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [62 <./plots/0.0083/1.71.png>]
+<plots/0.0083/2.53.png, id=330, 722.7pt x 722.7pt>
+File: plots/0.0083/2.53.png Graphic file (type png)
+<use plots/0.0083/2.53.png>
+Package pdftex.def Info: plots/0.0083/2.53.png  used on input line 601.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [63 <./plots/0.0083/2.12.png>]
+<plots/0.0083/2.94.png, id=335, 722.7pt x 722.7pt>
+File: plots/0.0083/2.94.png Graphic file (type png)
+<use plots/0.0083/2.94.png>
+Package pdftex.def Info: plots/0.0083/2.94.png  used on input line 610.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [64 <./plots/0.0083/2.53.png>]
+<plots/0.0083/3.36.png, id=340, 722.7pt x 722.7pt>
+File: plots/0.0083/3.36.png Graphic file (type png)
+<use plots/0.0083/3.36.png>
+Package pdftex.def Info: plots/0.0083/3.36.png  used on input line 619.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [65 <./plots/0.0083/2.94.png>]
+<plots/0.0083/3.77.png, id=345, 722.7pt x 722.7pt>
+File: plots/0.0083/3.77.png Graphic file (type png)
+<use plots/0.0083/3.77.png>
+Package pdftex.def Info: plots/0.0083/3.77.png  used on input line 628.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [66 <./plots/0.0083/3.36.png>]
+<plots/0.0083/4.18.png, id=350, 722.7pt x 722.7pt>
+File: plots/0.0083/4.18.png Graphic file (type png)
+<use plots/0.0083/4.18.png>
+Package pdftex.def Info: plots/0.0083/4.18.png  used on input line 637.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [67 <./plots/0.0083/3.77.png>]
+<plots/0.0083/4.59.png, id=356, 722.7pt x 722.7pt>
+File: plots/0.0083/4.59.png Graphic file (type png)
+<use plots/0.0083/4.59.png>
+Package pdftex.def Info: plots/0.0083/4.59.png  used on input line 646.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [68 <./plots/0.0083/4.18.png>]
+<plots/0.0083/5.0.png, id=361, 722.7pt x 722.7pt>
+File: plots/0.0083/5.0.png Graphic file (type png)
+<use plots/0.0083/5.0.png>
+Package pdftex.def Info: plots/0.0083/5.0.png  used on input line 655.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [69 <./plots/0.0083/4.59.png>]
+<plots/0.0089/1.3.png, id=366, 722.7pt x 722.7pt>
+File: plots/0.0089/1.3.png Graphic file (type png)
+<use plots/0.0089/1.3.png>
+Package pdftex.def Info: plots/0.0089/1.3.png  used on input line 666.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [70 <./plots/0.0083/5.0.png>]
+<plots/0.0089/1.71.png, id=371, 722.7pt x 722.7pt>
+File: plots/0.0089/1.71.png Graphic file (type png)
+<use plots/0.0089/1.71.png>
+Package pdftex.def Info: plots/0.0089/1.71.png  used on input line 675.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [71 <./plots/0.0089/1.3.png>]
+<plots/0.0089/2.12.png, id=376, 722.7pt x 722.7pt>
+File: plots/0.0089/2.12.png Graphic file (type png)
+<use plots/0.0089/2.12.png>
+Package pdftex.def Info: plots/0.0089/2.12.png  used on input line 684.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [72 <./plots/0.0089/1.71.png>]
+<plots/0.0089/2.53.png, id=381, 722.7pt x 722.7pt>
+File: plots/0.0089/2.53.png Graphic file (type png)
+<use plots/0.0089/2.53.png>
+Package pdftex.def Info: plots/0.0089/2.53.png  used on input line 693.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [73 <./plots/0.0089/2.12.png>]
+<plots/0.0089/2.94.png, id=387, 722.7pt x 722.7pt>
+File: plots/0.0089/2.94.png Graphic file (type png)
+<use plots/0.0089/2.94.png>
+Package pdftex.def Info: plots/0.0089/2.94.png  used on input line 702.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [74 <./plots/0.0089/2.53.png>]
+<plots/0.0089/3.36.png, id=392, 722.7pt x 722.7pt>
+File: plots/0.0089/3.36.png Graphic file (type png)
+<use plots/0.0089/3.36.png>
+Package pdftex.def Info: plots/0.0089/3.36.png  used on input line 711.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [75 <./plots/0.0089/2.94.png>]
+<plots/0.0089/3.77.png, id=397, 722.7pt x 722.7pt>
+File: plots/0.0089/3.77.png Graphic file (type png)
+<use plots/0.0089/3.77.png>
+Package pdftex.def Info: plots/0.0089/3.77.png  used on input line 720.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [76 <./plots/0.0089/3.36.png>]
+<plots/0.0089/4.18.png, id=402, 722.7pt x 722.7pt>
+File: plots/0.0089/4.18.png Graphic file (type png)
+<use plots/0.0089/4.18.png>
+Package pdftex.def Info: plots/0.0089/4.18.png  used on input line 729.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [77 <./plots/0.0089/3.77.png>]
+<plots/0.0089/4.59.png, id=407, 722.7pt x 722.7pt>
+File: plots/0.0089/4.59.png Graphic file (type png)
+<use plots/0.0089/4.59.png>
+Package pdftex.def Info: plots/0.0089/4.59.png  used on input line 738.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [78 <./plots/0.0089/4.18.png>]
+<plots/0.0089/5.0.png, id=412, 722.7pt x 722.7pt>
+File: plots/0.0089/5.0.png Graphic file (type png)
+<use plots/0.0089/5.0.png>
+Package pdftex.def Info: plots/0.0089/5.0.png  used on input line 747.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [79 <./plots/0.0089/4.59.png>]
+<plots/0.0094/1.3.png, id=418, 722.7pt x 722.7pt>
+File: plots/0.0094/1.3.png Graphic file (type png)
+<use plots/0.0094/1.3.png>
+Package pdftex.def Info: plots/0.0094/1.3.png  used on input line 758.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [80 <./plots/0.0089/5.0.png>]
+<plots/0.0094/1.71.png, id=423, 722.7pt x 722.7pt>
+File: plots/0.0094/1.71.png Graphic file (type png)
+<use plots/0.0094/1.71.png>
+Package pdftex.def Info: plots/0.0094/1.71.png  used on input line 767.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [81 <./plots/0.0094/1.3.png>]
+<plots/0.0094/2.12.png, id=428, 722.7pt x 722.7pt>
+File: plots/0.0094/2.12.png Graphic file (type png)
+<use plots/0.0094/2.12.png>
+Package pdftex.def Info: plots/0.0094/2.12.png  used on input line 776.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [82 <./plots/0.0094/1.71.png>]
+<plots/0.0094/2.53.png, id=433, 722.7pt x 722.7pt>
+File: plots/0.0094/2.53.png Graphic file (type png)
+<use plots/0.0094/2.53.png>
+Package pdftex.def Info: plots/0.0094/2.53.png  used on input line 785.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [83 <./plots/0.0094/2.12.png>]
+<plots/0.0094/2.94.png, id=438, 722.7pt x 722.7pt>
+File: plots/0.0094/2.94.png Graphic file (type png)
+<use plots/0.0094/2.94.png>
+Package pdftex.def Info: plots/0.0094/2.94.png  used on input line 794.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [84 <./plots/0.0094/2.53.png>]
+<plots/0.0094/3.36.png, id=443, 722.7pt x 722.7pt>
+File: plots/0.0094/3.36.png Graphic file (type png)
+<use plots/0.0094/3.36.png>
+Package pdftex.def Info: plots/0.0094/3.36.png  used on input line 803.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [85 <./plots/0.0094/2.94.png>]
+<plots/0.0094/3.77.png, id=449, 722.7pt x 722.7pt>
+File: plots/0.0094/3.77.png Graphic file (type png)
+<use plots/0.0094/3.77.png>
+Package pdftex.def Info: plots/0.0094/3.77.png  used on input line 812.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [86 <./plots/0.0094/3.36.png>]
+<plots/0.0094/4.18.png, id=454, 722.7pt x 722.7pt>
+File: plots/0.0094/4.18.png Graphic file (type png)
+<use plots/0.0094/4.18.png>
+Package pdftex.def Info: plots/0.0094/4.18.png  used on input line 821.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [87 <./plots/0.0094/3.77.png>]
+<plots/0.0094/4.59.png, id=459, 722.7pt x 722.7pt>
+File: plots/0.0094/4.59.png Graphic file (type png)
+<use plots/0.0094/4.59.png>
+Package pdftex.def Info: plots/0.0094/4.59.png  used on input line 830.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [88 <./plots/0.0094/4.18.png>]
+<plots/0.0094/5.0.png, id=464, 722.7pt x 722.7pt>
+File: plots/0.0094/5.0.png Graphic file (type png)
+<use plots/0.0094/5.0.png>
+Package pdftex.def Info: plots/0.0094/5.0.png  used on input line 839.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [89 <./plots/0.0094/4.59.png>]
+<plots/0.01/1.3.png, id=469, 722.7pt x 722.7pt>
+File: plots/0.01/1.3.png Graphic file (type png)
+<use plots/0.01/1.3.png>
+Package pdftex.def Info: plots/0.01/1.3.png  used on input line 850.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [90 <./plots/0.0094/5.0.png>]
+<plots/0.01/1.71.png, id=474, 722.7pt x 722.7pt>
+File: plots/0.01/1.71.png Graphic file (type png)
+<use plots/0.01/1.71.png>
+Package pdftex.def Info: plots/0.01/1.71.png  used on input line 859.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [91 <./plots/0.01/1.3.png>]
+<plots/0.01/2.12.png, id=480, 722.7pt x 722.7pt>
+File: plots/0.01/2.12.png Graphic file (type png)
+<use plots/0.01/2.12.png>
+Package pdftex.def Info: plots/0.01/2.12.png  used on input line 868.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [92 <./plots/0.01/1.71.png>]
+<plots/0.01/2.53.png, id=485, 722.7pt x 722.7pt>
+File: plots/0.01/2.53.png Graphic file (type png)
+<use plots/0.01/2.53.png>
+Package pdftex.def Info: plots/0.01/2.53.png  used on input line 877.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [93 <./plots/0.01/2.12.png>]
+<plots/0.01/2.94.png, id=490, 722.7pt x 722.7pt>
+File: plots/0.01/2.94.png Graphic file (type png)
+<use plots/0.01/2.94.png>
+Package pdftex.def Info: plots/0.01/2.94.png  used on input line 886.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [94 <./plots/0.01/2.53.png>]
+<plots/0.01/3.36.png, id=495, 722.7pt x 722.7pt>
+File: plots/0.01/3.36.png Graphic file (type png)
+<use plots/0.01/3.36.png>
+Package pdftex.def Info: plots/0.01/3.36.png  used on input line 895.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [95 <./plots/0.01/2.94.png>]
+<plots/0.01/3.77.png, id=500, 722.7pt x 722.7pt>
+File: plots/0.01/3.77.png Graphic file (type png)
+<use plots/0.01/3.77.png>
+Package pdftex.def Info: plots/0.01/3.77.png  used on input line 904.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [96 <./plots/0.01/3.36.png>]
+<plots/0.01/4.18.png, id=505, 722.7pt x 722.7pt>
+File: plots/0.01/4.18.png Graphic file (type png)
+<use plots/0.01/4.18.png>
+Package pdftex.def Info: plots/0.01/4.18.png  used on input line 913.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [97 <./plots/0.01/3.77.png>]
+<plots/0.01/4.59.png, id=511, 722.7pt x 722.7pt>
+File: plots/0.01/4.59.png Graphic file (type png)
+<use plots/0.01/4.59.png>
+Package pdftex.def Info: plots/0.01/4.59.png  used on input line 922.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [98 <./plots/0.01/4.18.png>]
+<plots/0.01/5.0.png, id=516, 722.7pt x 722.7pt>
+File: plots/0.01/5.0.png Graphic file (type png)
+<use plots/0.01/5.0.png>
+Package pdftex.def Info: plots/0.01/5.0.png  used on input line 931.
+(pdftex.def)             Requested size: 301.1261pt x 301.12793pt.
+ [99 <./plots/0.01/4.59.png>] 
+AED: lastpage setting LastPage
+[100 <./plots/0.01/5.0.png>] (build/plots.aux) ) 
+Here is how much of TeX's memory you used:
+ 2453 strings out of 478286
+ 45919 string characters out of 5850726
+ 315661 words of memory out of 5000000
+ 20625 multiletter control sequences out of 15000+600000
+ 496048 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,243b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr17.pfb>
+Output written on build/plots.pdf (100 pages, 2513001 bytes).
+PDF statistics:
+ 549 PDF objects out of 1000 (max. 8388607)
+ 236 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 501 words of extra memory for PDF output out of 10000 (max. 10000000)
+
