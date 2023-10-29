@@ -2,9 +2,10 @@
 
 Datathon 2023 Submission
 
-## Presentation slides
+## Presentation
 
-<https://docs.google.com/presentation/d/1sOSUCWdcERDZdl6lOFkcLJkK5pml2w73MQ5gA4KQGgE/edit?usp=sharing>
+- slides: <https://docs.google.com/presentation/d/1sOSUCWdcERDZdl6lOFkcLJkK5pml2w73MQ5gA4KQGgE/edit?usp=sharing>
+- video: <https://drive.google.com/file/d/19WB7sGGaERm_uGTiKzBgTh7j-FJqNGm5/view>
 
 - Also in `presentation.pptx`
 
