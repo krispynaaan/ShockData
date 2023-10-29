@@ -20,4 +20,5 @@
 
 ## Dataset format
 
+- In data folder, the subfolders are organized by `ellipse_height`, with the csv files representing the plot given a `mach` value at that height
 - CSV file with `x` and `y` columns for each point on the airfoil
