@@ -6,6 +6,8 @@ Datathon 2023 Submission
 
 <https://docs.google.com/presentation/d/1sOSUCWdcERDZdl6lOFkcLJkK5pml2w73MQ5gA4KQGgE/edit?usp=sharing>
 
+- Also in `presentation.pptx`
+
 ## Setup
 
 - Install packages through `pip install -r requirements.txt`
